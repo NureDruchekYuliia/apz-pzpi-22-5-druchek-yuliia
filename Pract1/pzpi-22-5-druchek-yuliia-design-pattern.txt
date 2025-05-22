@@ -1,0 +1,423 @@
+Харківський університет радіоелектроніки
+Факультет комп'ютерних наук
+Кафедра програмної інженерії
+
+
+
+
+
+
+
+
+ЗВІТ
+до практичного заняття №1 з дисципліни
+"Архітектура програмного забезпечення"
+на тему: "Шаблон проєктування програмного забезпечення Посередник"
+
+
+
+
+
+
+
+
+
+
+
+
+Виконала ст. гр ПЗПІ-22-5
+Дручек Юлія Сергіївна
+
+
+Перевірив
+ст. викладач кафедри ПІ
+Сокорчук Ігор Петрович
+
+
+
+
+
+
+
+
+
+
+Харків 2025 
+1 ІСТОРІЯ ЗМІН
+
+
+
+
+№
+	Дата      
+	Версія звіту   
+	Опис змін та виправлень
+	1
+	27.04.25
+	0.1
+	Створено розділ «Завдання»
+	2
+	29.04.25
+	0.2
+	Створено розділи «Опис виконаної роботи» та «Висновки»
+	3
+	30.04.25
+	0.3
+	Створено «Додаток Б» та «Додаток В»
+	4
+	01.05.25
+	0.4
+	Створено «Додаток А»
+	5
+	23.05.25
+	0.5
+	Відредаговано «Додаток А»
+	________________
+
+
+2 ЗАВДАННЯ
+
+
+
+
+1. Підготувати доповідь на тему: «Шаблон (патерн) проєктування ПЗ»
+2. Створити та оформити слайди презентації доповіді
+3. Створити та опублікувати на YouTube відеозапис доповіді
+4. Оформити та завантажити на dl.nure.ua звіт до виконаної роботи
+5. При потребі створити та налаштувати у GitHub обліковий запис для облікового запису студента в домені @nure.ua
+6. Створити для виконання завдань з дисципліни GitHub репозиторій iз вказаним на https://dl.nure.ua іменем та з головною гілкою main
+7. Створити у корені створеного репозиторію файл README.md з вказаним далі змістом та вказані далі директорії для окремих завдань
+8. Експортувати звіт у файл у простому текстововому форматі та завантажити цей файл у директорію Pract1 у репозиторії GitHub
+9. Завантажити у вказану далі піддиректорію увесь програмний код, який розглядається у доповіді ПЗ1
+________________
+
+
+3 ОПИС ВИКОНАНОЇ РОБОТИ
+
+
+
+1. У ході практичного заняття було підготовано доповідь на тему "Шаблон проєктування програмного забезпечення Посередник".
+2. Було створено та оформлено слайди презентації доповіді.
+3. Було створено та опубліковано на YouTube відеозапис піготованої доповіді.
+________________
+
+
+4 ВИСНОВКИ
+
+
+В результаті виконання практичного заняття було створено доповідь на тему "Шаблон проєктування програмного забезпечення Посередник". Були досліджені основні шаблони проектування програмного забезпечення а також переваги їхнього використання. Були розглянуті принципи роботи шаблона програмного забезпечення Посередник його переваги та недоліки, а також, як він допомагає зменшити зв’язаність між компонентами у програмному забезпеченні.
+________________
+
+
+ДОДАТОК А
+
+
+
+
+Відеозапис доповіді на YouTube: https://youtu.be/Q3ddXw-1uWg
+
+
+Хронологічний опис доповіді:
+
+
+00:00 Вступ
+00:11 Мета презентації
+00:28 Опис терміну Шаблони проектування програмного забезпечення
+00:48 Переваги використання шаблонів програмного забезпечення
+01:38 Опис шаблону проектування програмного забезпечення Посередник
+02:04 Опис принципу роботи шаблону Посередник
+02:45 У яких ситуаціях застосовується Посередник
+03:15 Недоліки використання шаблона Посередник
+04:22 Приклад програмного коду до використання шаблону Посередник
+05:17 Приклад програмного коду після використання шаблону Посередник
+06:14 Висновки
+
+
+________________
+
+
+ДОДАТОК Б
+
+
+Слайди створеної презентації
+
+
+  
+
+Рисунок Б.1 – Титульний слайд
+
+
+  
+
+Рисунок Б.2 – Мета презентації
+
+
+  
+
+Рисунок Б.3 – Опис терміну Шаблони проектування 
+програмного забезпечення
+
+
+  
+
+Рисунок Б.4 – Переваги використання шаблонів програмного забезпечення
+
+
+  
+
+Рисунок Б.5 – Опис шаблону проектування програмного забезпечення Посередник
+
+
+  
+
+Рисунок Б.6 – Опис принципу роботи шаблону Посередник
+
+
+  
+
+Рисунок Б.7 – У яких ситуаціях застосовується Посередник
+
+
+  
+
+Рисунок Б.8 – Проблеми, які вирішує посередник
+
+
+  
+
+Рисунок Б.9 – Недоліки використання шаблона Посередник
+
+
+  
+
+Рисунок Б.10 – Приклад програмного коду до використання шаблону Посередник
+
+
+  
+
+Рисунок Б.11 – Приклад програмного коду після використання 
+шаблону Посередник (Частина 1)
+
+
+  
+
+Рисунок Б.12 – Приклад програмного коду після використання 
+шаблону Посередник (Частина 2)
+
+
+  
+
+Рисунок Б.13 – Приклад програмного коду після використання 
+шаблону Посередник (Частина 3)
+
+
+  
+
+Рисунок Б.14 – Висновок презентації
+________________
+
+
+ДОДАТОК В
+
+
+Використаний програмний код
+
+
+Код до використання шаблону Посередник:
+
+
+1  using System;
+2  public class Order
+3  {
+4    private Payment _payment;
+5    private Shipping _shipping;
+6  
+7    public Order()
+8    {
+9      _payment = new Payment(this);
+10      _shipping = new Shipping(this);
+11    }
+12  
+13    public void ProcessOrder()
+14    {
+15      _payment.ProcessPayment();
+16      _shipping.ShipOrder();
+17    }
+18  
+19    public void NotifyPaymentProcessed()
+20    {
+21      Console.WriteLine("Замовлення оплачене, починаємо доставку.");
+22    }
+23  
+24    public void NotifyShipped()
+25    {
+26      Console.WriteLine("Замовлення доставлене.");
+27    }
+28  }
+29  
+30  public class Payment
+31  {
+32    private Order _order;
+33  
+34    public Payment(Order order)
+35    {
+36      _order = order;
+37    }
+38  
+39    public void ProcessPayment()
+40    {
+41      Console.WriteLine("Обробка платежу...");
+42      _order.NotifyPaymentProcessed();
+43    }
+44  }
+45  
+46  public class Shipping
+47  {
+48    private Order _order;
+49  
+50    public Shipping(Order order)
+51    {
+52      _order = order;
+53    }
+54  
+55    public void ShipOrder()
+56    {
+57      Console.WriteLine("Обробка доставки...");
+58      _order.NotifyShipped();
+59    }
+60  }
+61  
+62  class Program
+63  {
+64    static void Main()
+65    {
+66      Order order = new Order();
+67      order.ProcessOrder();
+68    }
+69  }
+
+
+Код після використання шаблону Посередник:
+
+
+01  using System;
+02  
+03  public interface IOrderMediator
+04  {
+05    void ProcessPayment();
+06    void ShipOrder();
+07    void NotifyPaymentProcessed();
+08    void NotifyShipped();
+09  }
+10  
+11  public class OrderMediator : IOrderMediator
+12  {
+13    private readonly Payment _payment;
+14    private readonly Shipping _shipping;
+15    private Order _order;
+16  
+17    public OrderMediator(Order order, Payment payment, Shipping shipping)
+18    {
+19      _order = order;
+20      _payment = payment;
+21      _shipping = shipping;
+22  
+23      _payment.SetMediator(this);
+24      _shipping.SetMediator(this);
+25    }
+26  
+27    public void ProcessPayment()
+28    {
+29      _payment.ProcessPayment();
+30    }
+31  
+32    public void ShipOrder()
+33    {
+34      _shipping.ShipOrder();
+35    }
+36  
+37    public void NotifyPaymentProcessed()
+38    {
+39      _order.NotifyPaymentProcessed();
+40    }
+41  
+42    public void NotifyShipped()
+43    {
+44      _order.NotifyShipped();
+45    }
+46  }
+47  
+48  public class Order
+49  {
+50    private readonly IOrderMediator _mediator;
+51  
+52    public Order(IOrderMediator mediator)
+53    {
+54      _mediator = mediator;
+55    }
+56  
+57    public void ProcessOrder()
+58    {
+59      Console.WriteLine("Обробка замовлення...");
+60      _mediator.ProcessPayment();
+61    }
+62  
+63    public void NotifyPaymentProcessed()
+64    {
+65      Console.WriteLine("Замовлення оплачене, починаємо доставку.");
+66      _mediator.ShipOrder();
+67    }
+68  
+69    public void NotifyShipped()
+70    {
+71      Console.WriteLine("Замовлення доставлене.");
+72    }
+73  }
+74  
+75  public class Payment
+76  {
+77    private IOrderMediator _mediator;
+78  
+79    public void SetMediator(IOrderMediator mediator)
+80    {
+81      _mediator = mediator;
+82    }
+83  
+84    public void ProcessPayment()
+85    {
+86      Console.WriteLine("Обробка платежу...");
+87      _mediator.NotifyPaymentProcessed();
+88    }
+89  }
+90  
+91  public class Shipping
+92  {
+93    private IOrderMediator _mediator;
+94  
+95    public void SetMediator(IOrderMediator mediator)
+96    {
+97      _mediator = mediator;
+98    }
+99  
+100   public void ShipOrder()
+101   {
+102     Console.WriteLine("Обробка доставки...");
+103     _mediator.NotifyShipped();
+104   }
+105 }
+106 
+107 class Program
+108 {
+109   static void Main()
+110   {
+111     Order order = new Order(null);
+112     Payment payment = new Payment();
+113     Shipping shipping = new Shipping();
+114 
+115     OrderMediator mediator = new OrderMediator(order, payment, shipping);
+116 
+117     order = new Order(mediator);
+118 
+119     order.ProcessOrder();
+120   }
+121 }
