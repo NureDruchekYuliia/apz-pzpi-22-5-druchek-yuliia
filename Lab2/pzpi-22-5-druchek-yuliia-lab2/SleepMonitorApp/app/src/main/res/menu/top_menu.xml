@@ -1,0 +1,14 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/action_pick_date"
+        android:title="Choose date"
+        android:icon="@drawable/ic_calendar"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/action_clear_filter"
+        android:title="Show all"
+        android:icon="@drawable/ic_clear"
+        app:showAsAction="ifRoom" />
+</menu>
